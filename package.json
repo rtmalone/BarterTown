@@ -24,7 +24,9 @@
     "grunt-contrib-watch":  "*",
     "mocha":                "*",
     "chai" :                "*",
-    "supertest":            "*"
+    "supertest":            "*",
+    "coveralls":            "2.8.0",
+    "mocha-lcov-reporter":  "0.0.1"
   }
 }
 
